@@ -24,9 +24,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ✔️Axios
 
-💻 Projeto
-GoFinances uma aplicação financeira consumindo a API do back-end, gerenciando transações.
+💻 Resultado
 
+<img src="https://media-exp1.licdn.com/dms/image/C4D22AQHIDVwPcyDSdg/feedshare-shrink_800/0/1595385924159?e=2147483647&v=beta&t=tgd1Ddgfvq3ZNo6it1avWis5kaNvY2hx9kQ1V5I62_Q" />
 ⚙ Configuração
 
 1- Para instalar as dependências:
@@ -38,6 +38,4 @@ yarn
 yarn start
 
 
-Resultado
 
-![image](https://user-images.githubusercontent.com/59238443/165101456-50932c56-9a48-4271-acc8-022f10c78ccd.png)
